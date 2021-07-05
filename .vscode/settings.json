@@ -1,0 +1,6 @@
+{
+    "totvsLanguageServer.welcomePage": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
