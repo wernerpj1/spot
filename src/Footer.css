@@ -15,3 +15,6 @@
 .footer__center {
     flex: 0.4;
 }
+.footer__right {
+    flex:0.3;
+}
